@@ -1,0 +1,16 @@
+body{
+    background-image: url("background.jpg");
+    font-family: cursive;
+    font-weight: bold;
+}.footer{
+    position:fixed;
+    color: rgb(253, 250, 252);
+    bottom: 0;
+    font-size: 20px;
+    width: 100%;
+    background-image:url(blue.png);
+    background-size: cover;
+    line-height: 3;
+    text-align: center;
+
+}
